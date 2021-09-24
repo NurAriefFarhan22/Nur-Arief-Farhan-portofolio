@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@300&display=swap');
+
+* {
+    font-family: 'Yaldevi', sans-serif;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+
+img {
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid blueviolet;
+}
+
+
+.A{
+    background-color: aqua;
+    padding: 1px 1px 1px 1px;
+    margin: 1px 1px 1px 1px ;
+    border: 2px solid blueviolet;
+}
+
+
+
+.name {
+    background-color:aqua;
+    /* padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-right: 40px; */
+    padding: 10px 10px 10px 10px;
+
+    /* margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px; */
+    margin: 10px 480px 20px 480px;
+    border: 4px solid blueviolet;
+    max-width: 270px;
+    width: 266px;
+    max-height: 100px;
+    height: 50px;
+
+    width: 266px; 
+    height: 50px;
+    font-size: 17px;
+    font-weight: 40px;
+    line-height: 40px;
+}
+ 
+
+
+.Nur {
+     background-color:aqua;
+    /* padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-right: 40px; */
+    padding: 10px 20px 20px 10px;
+    
+    /* margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px; */
+    margin: 10px 525px 10px 525px;
+    border: 4px solid blueviolet;
+    max-width: 270px;
+    width: 160px;
+    max-height: 200px;
+    height: 50px;
+    
+    width: 160px; 
+    height: 50px;
+    font-size: 17px;
+    font-weight: 40px;
+    line-height: 40px;
+}
+
+.Arief {
+    background-color:aqua;
+    /* padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-right: 40px; */
+    padding: 10px 20px 20px 10px;
+    
+    /* margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px; */
+    margin: 10px 540px 10px 540px;
+    border: 4px solid blueviolet;
+    max-width: 270px;
+    width: 137px;
+    max-height: 200px;
+    height: 50px;
+    
+    width: 137px; 
+    height: 50px;
+    font-size: 17px;
+    font-weight: 40px;
+    line-height: 40px;
+}
+
+.Farhan {
+        background-color:aqua;
+    /* padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-right: 40px; */
+    padding: 10px 20px 20px 10px;
+    
+    /* margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px; */
+    margin: 10px 530px 10px 530px;
+    border: 4px solid blueviolet;
+    max-width: 270px;
+    width: 160px;
+    max-height: 300px;
+    height: 50px;
+    
+    width: 160px; 
+    height: 50px;
+    font-size: 17px;
+    font-weight: 40px;
+    line-height: 40px;
+}
+
+    .Nur1 {
+    background-color:aqua;
+    /* padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-right: 40px; */
+    padding: 10px 20px 20px 10px;
+    
+    /* margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    margin-left: 20px; */
+    margin: 10px 530px 10px 530px;
+    border: 4px solid blueviolet;
+    max-width: 270px;
+    width: 167px;
+    max-height: 250px;
+    height: 50px;
+    
+    width: 167px; 
+    height: 50px;
+    font-size: 17px;
+    font-weight: 40px;
+    line-height: 40px;
+}
+
+
+
+.warna {
+    font-size: 17px;
+    font-weight: 40px;
+    color: blue;
+    line-height: 35px;
+}
+
+
+
+.warna1 {
+    font-size: 17px;
+    font-weight: 40px;
+    color: blue;
+    line-height: 35px;
+}
+
+
+.warna2 {
+    font-size: 17px;
+    font-weight: 40px;
+    color: blue;
+    line-height: 35px;
+}
+
+
+
+:root {
+    --aqua: aquamarine;
+    --lebar: 200px;
+    --tinggi: 200px;
+}
+
+
+
+.kotak-1 {
+    width: var(--lebar);
+    height: var(--tinggi);
+    margin: 10px;
+    background-color: var(--aqua);
+    /* border: 2px solid blueviolet; */
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+
+
+.kotak-2 {
+    width: var(--lebar);
+    height: var(--tinggi);
+    margin: 10px;
+    background-color: var(--aqua);
+}
+
+
+.warna3 {
+    font-size: 17px;
+    font-weight: 40px;
+    color: blue;
+    line-height: 35px;
+}
+
+
+
+.profil {
+    font-size: 17px;
+    font-weight: 40px;
+    color: blue;
+    line-height: 35px;
+}
